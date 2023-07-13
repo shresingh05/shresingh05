@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shreyansh singh</h1>
 <h3 align="center">A passionate frontend and Java developer along with good knowledge of Electrical and Electronics fundamentals.</h3>
 <img align="end right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -14,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@singhshreyansh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singhshreyansh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyansh-singh0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyansh-singh0108" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shreyansh-singh0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyansh-singh0108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
