@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Frontend **Java Script (ReactJS, AngularJS), CSS (BootStrap, Tailwiind)**
 
-- 📫 How to reach me **shreyansh.ku.singh@gmail.com**
+- 📫 How to reach me **shreyansh.ku.singh@gmail.com , 8052767338**
 
 - My Resume:- [https://drive.google.com/file/d/1Zmyg8RVBUlUFJizeluE7cOLydZdO9Bmr/view?usp=sharing](https://drive.google.com/file/d/1Zmyg8RVBUlUFJizeluE7cOLydZdO9Bmr/view?usp=sharing)
 
