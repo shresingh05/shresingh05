@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![hero image](hero.jpg)
+
+![hero image](https://github.com/shresingh05/shresingh05/assets/118585833/aed6b9e9-da94-4281-9b3c-a82dc8b68061)
 
 [![LinkedIn Shreyansh Singh](https://www.linkedin.com/in/shreyansh-singh0108/)
 
