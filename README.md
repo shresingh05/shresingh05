@@ -22,7 +22,7 @@ Welcome to my Github! I'm Shreyansh, a Electrical and Electronics student at Gal
 <table width="100%">
         <tr>
             <td>Full Stack Developer</td>
-            <td>Data Science</td>
+            <td>Technical Skills</td>
         </tr>
         <!-- data row -->
         <tr>
