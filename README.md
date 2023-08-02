@@ -1,24 +1,83 @@
-<h1 align="center">Hi 👋, I'm Shreyansh singh</h1>
-<h3 align="center">A passionate Frontend and Java developer along with good knowledge of Electrical and Electronics fundamentals.</h3>
-<img align="end right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shresingh05&label=Profile%20views&color=0e75b6&style=flat" alt="shresingh05" /> </p>
+![hero image](hero.jpg)
 
-<p align="left"> <a href="https://twitter.com/@singhshreyansh_" target="blank"><img src="https://img.shields.io/twitter/follow/@singhshreyansh_?logo=twitter&style=for-the-badge" alt="@singhshreyansh_" /></a> </p>
+[![LinkedIn Shreyansh Singh](https://www.linkedin.com/in/shreyansh-singh0108/)
 
-- 🌱 I’m currently learning Frontend **Java Script (ReactJS, AngularJS), CSS (BootStrap, Tailwiind)**
+Welcome to my Github! I'm Shreyansh, a Electrical and Electronics student at Galgotia College Of Engineering and Technology. My interests lie in the field of  Web Development, and Data Science , Software Development.
 
-- 📫 How to reach me **shreyansh.ku.singh@gmail.com , 8052767338**
+- 😄 Pronouns: he/him
 
-- My Resume:- [https://drive.google.com/file/d/1Zmyg8RVBUlUFJizeluE7cOLydZdO9Bmr/view?usp=sharing](https://drive.google.com/file/d/1Zmyg8RVBUlUFJizeluE7cOLydZdO9Bmr/view?usp=sharing)
+## 📬 Get in touch
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@singhshreyansh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singhshreyansh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shreyansh-singh0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyansh-singh0108" height="30" width="40" /></a>
-</p>
+- portfolio website:
+- mail: shreyansh.ku.singh@gmail.com
+- linkedin: https://www.linkedin.com/in/shreyansh-singh0108/
+- leetcode: https://leetcode.com/shreyansh__1/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## ⚙️ Technical Skillset
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shresingh05&show_icons=true&locale=en&layout=compact" alt="shresingh05" /></p>
+<!-- new code -->
+<table width="100%">
+        <tr>
+            <td>Full Stack Developer</td>
+            <td>Data Science</td>
+        </tr>
+        <!-- data row -->
+        <tr>
+            <!-- first data -->
+            <td>
+                <table>
+                <tr>
+                    <th> ⚡ Proficient in</th>
+                    <th> 👌 Previously used</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Python</li>
+                            <li>Java</li>
+                            <li>C</li>
+                            <li>Javascript</li>
+                            <li>React</li>
+                            <li>Node</li>
+                            <li>MySQL</li>
+                            <li>HTML/CSS</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>C++</li>
+                            <li>PHP</li>
+                            <li>Android</li>
+                        </ul>
+                    </td>
+                </tr>
+                </table>
+            </td>
+            <!-- second data -->
+            <td>
+                <table>
+                <tr>
+                    <th> 📈 Skills</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li style="padding:5px"><b>Mathematics:</b> Statistics & Probability</li>
+                            <li style="padding:5px"><b>Libraries:</b> Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
+                            <li style="padding:5px"><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
+                            <li style="padding:5px"><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
+                            <li style="padding:5px"><b>Topics:</b> Machine Learning, Deep learning,<br> Data Storytelling</li>
+                            <li style="padding:5px"><b>Deep Learning Lib:</b> PyTorch, TensorFlow, Keras</li>
+                        </ul>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+## 🤝 Open to work
+
+Currently seeking full time positions for software engineer, data engineer, ui/ux design, web development roles.
