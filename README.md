@@ -65,12 +65,11 @@ Welcome to my Github! I'm Shreyansh, a Electrical and Electronics student at Gal
                 <tr>
                     <td>
                         <ul>
-                            <li style="padding:5px"><b>Mathematics:</b> Statistics & Probability</li>
-                            <li style="padding:5px"><b>Libraries:</b> Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
-                            <li style="padding:5px"><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
-                            <li style="padding:5px"><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
-                            <li style="padding:5px"><b>Topics:</b> Machine Learning, Deep learning,<br> Data Storytelling</li>
-                            <li style="padding:5px"><b>Deep Learning Lib:</b> PyTorch, TensorFlow, Keras</li>
+                            <li style="padding:5px"><b>Web technologies & Frameworks:</b> React, React Native, Angular.js </li>
+                            <li style="padding:5px"><b>Database Technology:</b> MySQL, <br> MongoDB</li>
+                            <li style="padding:5px"><b>Operating Systems :</b> Windows, Linux, Unix</li>
+                            <li style="padding:5px"><b>DevOps:</b> AWS, AWS Amplify,<br> AWS Lambda, API Gateway, DynamoDB</li>
+                            <li style="padding:5px"><b>Platform & tools:</b>GitHub, Postman,<br> GIT , Atlassian</li>
                         </ul>
                     </td>
                 </tr>
