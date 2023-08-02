@@ -3,7 +3,7 @@
 
 ![hero image](https://github.com/shresingh05/shresingh05/assets/118585833/aed6b9e9-da94-4281-9b3c-a82dc8b68061)
 
-[![LinkedIn Shubham Singh](https://img.shields.io/badge/shusingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shreyansh-singh0108/)
+[!LinkedIn Shreyansh Singh](https://img.shields.io/badge/shusingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shreyansh-singh0108/)
 
 Welcome to my Github! I'm Shreyansh, a Electrical and Electronics student at Galgotia College Of Engineering and Technology. My interests lie in the field of  Web Development, and Data Science , Software Development.
 
