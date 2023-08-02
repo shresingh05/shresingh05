@@ -66,10 +66,10 @@ Welcome to my Github! I'm Shreyansh, a Electrical and Electronics student at Gal
                     <td>
                         <ul>
                             <li style="padding:5px"><b>Web technologies & Frameworks:</b> React, React Native, Angular.js </li>
-                            <li style="padding:5px"><b>Database Technology:</b> MySQL, <br> MongoDB</li>
+                            <li style="padding:5px"><b>Database Technology:</b> MySQL,  MongoDB</li>
                             <li style="padding:5px"><b>Operating Systems :</b> Windows, Linux, Unix</li>
-                            <li style="padding:5px"><b>DevOps:</b> AWS, AWS Amplify,<br> AWS Lambda, API Gateway, DynamoDB</li>
-                            <li style="padding:5px"><b>Platform & tools:</b>GitHub, Postman,<br> GIT , Atlassian</li>
+                            <li style="padding:5px"><b>DevOps:</b> AWS, AWS Amplify, AWS Lambda, API Gateway, DynamoDB</li>
+                            <li style="padding:5px"><b>Platform & tools:</b>GitHub, Postman, GIT , Atlassian</li>
                         </ul>
                     </td>
                 </tr>
