@@ -11,7 +11,7 @@ Welcome to my Github! I'm Shreyansh, a Electrical and Electronics student at Gal
 
 ## 📬 Get in touch
 
-- portfolio website portfolio-shreysingh.netlify.app/
+- portfolio: https://portfolio-shreysingh.netlify.app/
 - mail: shreyansh.ku.singh@gmail.com
 - linkedin: https://www.linkedin.com/in/shreyansh-singh0108/
 - leetcode: https://leetcode.com/shreyansh__1/
